@@ -28,7 +28,7 @@ import com.example.porfirio.codicefiscale.engine.ReverseGeocoding;
 public class MainActivity extends Activity {
     private CitiesCodes cc;
     private Person person = new Person();
-
+    //PIPPOZZOMALWARE
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
